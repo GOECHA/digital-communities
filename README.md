@@ -1,1 +1,1 @@
-# digital-communities
+# Women Who Code Digital Communities
