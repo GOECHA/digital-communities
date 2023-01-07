@@ -9,6 +9,7 @@ Welcome to the Women Who Code Days of Code Challenge! Below is a list of helpful
 ## Sharing Your Code
 - [GitHub](https://github.com)
 - [Notion](https://www.notion.so)
+- [Medium](https://medium.com)
 - [Google Colab](https://colab.research.google.com)
 - [Jupyter Notebook](https://jupyter.org/try-jupyter/lab/)
 - [Replit](https://replit.com)
